@@ -96,7 +96,7 @@ export default {
       confluxscanApi: {
         apiURL: "https://chainscan-test.0g.ai/open",
       },
-      rpc: ["http://evmrpc-testnet.0g.ai"],
+      rpc: ["https://evmrpc-testnet.0g.ai"],
     },
     16661: {
       name: "0G mainnet",
@@ -105,7 +105,7 @@ export default {
       confluxscanApi: {
         apiURL: "https://chainscan.0g.ai/open",
       },
-      rpc: ["http://evmrpc.0g.ai"],
+      rpc: ["https://evmrpc.0g.ai"],
     },
     17000: {
       name: "Ethereum Holesky Testnet",
